@@ -1,13 +1,13 @@
-package org.ajmera.employeepayrollapp;
+package org.ajmera.employeepayroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeepayrollappApplicationTests {
+class EmployeepayrollApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
